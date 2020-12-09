@@ -1,2 +1,2 @@
 # CIND820
-CIND820 Project - Ames Housing ataset
+CIND820 Project - Ames Housing Dataset
